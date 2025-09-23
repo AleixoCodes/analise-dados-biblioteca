@@ -1,19 +1,25 @@
-<p align="left">Hello, i'm Aleixo, and i'm student of data cience and AI.</p>
+# 👋 Olá, me chamo Aleixo  
 
-###
+🎓 Estudante de **Ciência de Dados e Inteligência Artificial** (3º semestre)  
+💻 Apaixonado por **programação, análise de dados e IA**  
+🚀 Em busca de oportunidades em **T.I / Data Science / Inteligência Artificial**  
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+---
 
-###
+## 📂 Projetos em Destaque
+- 🐍 [Análise de Dados em Python](link-projeto)  
+- 🎮 [Jogo da Velha em C](link-projeto)  
+- 💾 [Simulador de Memória Cache](link-projeto)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleixola007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aleixola007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aleixo-martins
+
+)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleixomartins2006@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](seu-link-do-discord)  
+
+---
+
+✨ Sempre aprendendo, sempre evoluindo!
