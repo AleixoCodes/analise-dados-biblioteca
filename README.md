@@ -1,15 +1,19 @@
-# 👋 Olá, me chamo Aleixo  
+# 👋 Olá, me chamo Aleixo e bem-vido(a) ao meu perfil.
+
+Aqui é onde eu documento minha evolução como programador, um projeto de cada vez.
 
 🎓 Estudante de **Ciência de Dados e Inteligência Artificial** (3º semestre)  
 💻 Apaixonado por **programação, análise de dados e IA**  
 🚀 Em busca de oportunidades em **T.I / Data Science / Inteligência Artificial**  
+🧠 Sempre animado para aprender e aplicar novas tecnologias.
+
+Embora ainda esteja no início da minha jornada, sou movido pela curiosidade e pela paixão em transformar dados em insights valiosos.
 
 ---
 
-## 📂 Projetos em Destaque
-- 🐍 [Análise de Dados em Python](link-projeto)  
-- 🎮 [Jogo da Velha em C](link-projeto)  
-- 💾 [Simulador de Memória Cache](link-projeto)  
+## 📂 Projetos
+- 🐍 [Análise de Dados em Python](Em breve...)  
+- 🎮 [Jogo da Velha em C]    
 
 ---
 
