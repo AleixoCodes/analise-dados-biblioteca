@@ -1,10 +1,10 @@
 # 👋 Olá, me chamo Aleixo e bem-vido(a) ao meu perfil.
 
-Aqui é onde eu documento minha evolução como programador, um projeto de cada vez.
+Aqui é onde eu documento minha evolução como programador.
 
-🎓 Estudante de **Ciência de Dados e Inteligência Artificial** (3º semestre)  
-💻 Apaixonado por **programação, análise de dados e IA**  
-🚀 Em busca de oportunidades em **T.I / Data Science / Inteligência Artificial**  
+🎓 Estudante de **Ciência de Dados e Inteligência Artificial** no **Senai Cimatec** (4º semestre)  
+💻 Apaixonado por **tecnologia**, resolvi estudar a fundo **programação** e **Inteligência Artificial** para inovar o mundo tech! 
+🚀 Pretendo atuar profissionalmente em breve nas áreas de: **T.I em geral / Dev BackEnd / Data Science or Analyst**  
 🧠 Sempre animado para aprender e aplicar novas tecnologias.
 
 Embora ainda esteja no início da minha jornada, sou movido pela curiosidade e pela paixão em transformar dados em insights valiosos.
