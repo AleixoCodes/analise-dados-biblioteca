@@ -12,7 +12,7 @@ Embora ainda esteja no início da minha jornada, sou movido pela curiosidade e p
 ---
 
 ## 📂 Projetos
-- 🐍 [Análise de Dados em Python](Em breve...)  
+- 🐍 [Análise de Dados em Python](https://github.com/AleixoCodes/Analise-de-dados-bibliotecarios) (Em andamento...)  
 - 🎮 [Jogo da Velha em C](https://github.com/AleixoCodes/Atividades-em-C)
 
 ---
