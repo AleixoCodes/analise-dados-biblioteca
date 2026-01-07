@@ -3,7 +3,7 @@
 Aqui é onde eu documento minha evolução como programador.
 
 🎓 Estudante de **Ciência de Dados e Inteligência Artificial** no **Senai Cimatec** (4º semestre)  
-💻 Apaixonado por **tecnologia**, resolvi estudar a fundo **programação** e **Inteligência Artificial** para inovar o mundo tech! 
+💻 Apaixonado por **tecnologia**, resolvi estudar a fundo **programação** e **Inteligência Artificial** para inovar o mundo tech!  
 🚀 Pretendo atuar profissionalmente em breve nas áreas de: **T.I em geral / Dev BackEnd / Data Science or Analyst**  
 🧠 Sempre animado para aprender e aplicar novas tecnologias.
 
